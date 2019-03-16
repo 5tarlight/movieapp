@@ -10,6 +10,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.16.4",
+    "korean-logger": "^1.0.5",
     "typescript": "^3.3.3333"
   },
   "devDependencies": {
