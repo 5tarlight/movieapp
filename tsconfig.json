@@ -1,0 +1,29 @@
+{
+  "include": [
+      "src/**/*"
+  ],
+  "exclude": [
+      "node_modules"
+  ],
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "*": ["*"]
+    },
+
+    "rootDir": "./",
+    "outDir": "dist",
+    "declaration": false,
+    "declarationDir": "",
+    
+    "traceResolution": false, 
+    "listEmittedFiles": false,
+    "listFiles": true,
+    "locale": "ko",
+    "pretty": true,
+    "strict": true
+  }
+}
