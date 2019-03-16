@@ -17,10 +17,9 @@ $(() => {
         + '  </div>'
         + '</div>')
 
-        let element = $('.con' + i)
-        let cover = $('.cover' + i)
+        let con = $('.con' + i)
 
-        cover.css('background-image', `url(${movies[i].medium_cover_image})`)
+        con.css('background-image', `url(${movies[i].medium_cover_image})`)
       }
     }
   })
