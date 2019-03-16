@@ -1,0 +1,15 @@
+.container {
+  float: left;
+  width: 250px;
+  height: 350px;
+  background-color: #e2e0ff;
+  margin: 5px;
+}
+
+.cover {
+  margin: 5px;
+  width: 150px;
+  height: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

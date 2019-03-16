@@ -1,0 +1,61 @@
+{
+  "status":"ok",
+  "status_message":"Query was successful",
+  "data":{
+    "movie_count":10854,
+    "limit":1,
+    "page_number":1,
+    "movies":[
+      {
+        "id":11214,
+        "url":"https://yts.am/movie/a-bullet-for-the-general-1967",
+        "imdb_code":"tt0061429",
+        "title":"A Bullet for the General",
+        "title_english":"A Bullet for the General",
+        "title_long":"A Bullet for the General (1967)",
+        "slug":"a-bullet-for-the-general-1967",
+        "year":1967,
+        "rating":7.1,
+        "runtime":118,
+        "genres":[
+          "Action",
+          "Western"
+        ],
+        "summary":"In the rough years of the revolution in Mexico, the hardened bandit chief, El Chucho, is in need of arms, ammunition, and a much-sought-after machine gun to support the leader of the revolution, the rebel General, Elías. With this in mind, Chucho attacks a government supply train and gets an unforeseen assistance from Bill Tate--the American gringo in the impeccable suit--with whom will soon become friends. Now, Bill is truly indispensable to the gang, however, could he be hiding his true objective behind a boyish and calm face?",
+        "description_full":"In the rough years of the revolution in Mexico, the hardened bandit chief, El Chucho, is in need of arms, ammunition, and a much-sought-after machine gun to support the leader of the revolution, the rebel General, Elías. With this in mind, Chucho attacks a government supply train and gets an unforeseen assistance from Bill Tate--the American gringo in the impeccable suit--with whom will soon become friends. Now, Bill is truly indispensable to the gang, however, could he be hiding his true objective behind a boyish and calm face?",
+        "synopsis":"In the rough years of the revolution in Mexico, the hardened bandit chief, El Chucho, is in need of arms, ammunition, and a much-sought-after machine gun to support the leader of the revolution, the rebel General, Elías. With this in mind, Chucho attacks a government supply train and gets an unforeseen assistance from Bill Tate--the American gringo in the impeccable suit--with whom will soon become friends. Now, Bill is truly indispensable to the gang, however, could he be hiding his true objective behind a boyish and calm face?",
+        "yt_trailer_code":"98HTgS85T0k",
+        "language":"English",
+        "mpa_rating":"",
+        "background_image":"https://yts.am/assets/images/movies/a_bullet_for_the_general_1967/background.jpg",
+        "background_image_original":"https://yts.am/assets/images/movies/a_bullet_for_the_general_1967/background.jpg",
+        "small_cover_image":"https://yts.am/assets/images/movies/a_bullet_for_the_general_1967/small-cover.jpg",
+        "medium_cover_image":"https://yts.am/assets/images/movies/a_bullet_for_the_general_1967/medium-cover.jpg",
+        "large_cover_image":"https://yts.am/assets/images/movies/a_bullet_for_the_general_1967/large-cover.jpg",
+        "state":"ok",
+        "torrents":[
+          {
+            "url":"https://yts.am/torrent/download/8F46CA4FAE96104E66E67DC7BA2F97CA47D60FAC",
+            "hash":"8F46CA4FAE96104E66E67DC7BA2F97CA47D60FAC",
+            "quality":"720p",
+            "type":"bluray",
+            "seeds":0,
+            "peers":0,
+            "size":"969.56 MB",
+            "size_bytes":1016657347,
+            "date_uploaded":"2019-03-16 15:03:19",
+            "date_uploaded_unix":1552744999
+          }
+        ],
+        "date_uploaded":"2019-03-16 15:03:19",
+        "date_uploaded_unix":1552744999
+      }
+    ]
+  },
+  "@meta":{
+    "server_time":1552750389,
+    "server_timezone":"CET",
+    "api_version":2,
+    "execution_time":"0 ms"
+  }
+}
