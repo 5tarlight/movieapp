@@ -14,10 +14,10 @@
       "*": ["types/*"]
     },
 
-    "outDir": "dist",
-    
+    "rootDir": "src/",
     "locale": "ko",
     "pretty": true,
-    "strict": true
+    "strict": true,
+    "outDir": "dist/"
   }
 }
