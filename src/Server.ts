@@ -1,6 +1,6 @@
 
 import * as express from 'express'
-import * as cors from'cors'
+import * as cors from 'cors'
 
 class Server {
   app: express.Application
@@ -9,7 +9,20 @@ class Server {
     this.app = express()
 
     this.app.use(cors())
+    this.app.use('/', express.static(__dirname + '/public'))
+
     console.log('Setting complete.')
+  }
+
+  route() {
+    let router = express.Router()
+
+    router.route('/').get((req: express.Request, res: express.Response) => {
+      console.log(req.ip + ' : portal')
+      res.sendFile(__dirname + '/public/portal.html')
+    })
+
+    this.app.use(router)
   }
 
   start(): void {
