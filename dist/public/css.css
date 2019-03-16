@@ -11,3 +11,31 @@
 .container:hover {
   cursor: pointer;
 }
+
+.dialog {
+  display: none;
+  position: absolute;
+  background-color: #f5f1f1;
+  width: 80%;
+  height: 80%;
+  margin: 5% 10%;
+}
+
+.bar {
+  width: 100%;
+  background-color: #b4b2b2;
+  height: 30px;
+}
+
+.dismiss {
+  background-color: red;
+  border-radius: 20px;
+  text-align: center;
+  padding: 10px;
+  margin: 5px;
+  float: left;
+}
+
+.dismiss:hover {
+  cursor: pointer;
+}
