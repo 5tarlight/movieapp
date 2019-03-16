@@ -14,14 +14,8 @@
       "*": ["*"]
     },
 
-    "rootDir": "./",
     "outDir": "dist",
-    "declaration": false,
-    "declarationDir": "",
     
-    "traceResolution": false, 
-    "listEmittedFiles": false,
-    "listFiles": true,
     "locale": "ko",
     "pretty": true,
     "strict": true
