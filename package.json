@@ -1,0 +1,10 @@
+{
+  "name": "movieapp",
+  "version": "1.0.0",
+  "description": "Movie Dashboard",
+  "main": "main.js",
+  "repository": "https://github.com/5tarlight/movieapp",
+  "author": "5tarlight <developerstarlight@gmail.com>",
+  "license": "AGPL-3.0",
+  "private": false
+}
